@@ -1,6 +1,10 @@
-http://ip:port
-socks4://ip:port
-socks5://ip:port
-http://user:pass@ip:port
-socks4://user:pass@ip:port
-socks5://user:pass@ip:port
+http://pybzooxr:xz82lne5tzgj@198.23.239.134:6540  
+http://pybzooxr:xz82lne5tzgj@207.244.217.165:6712  
+http://pybzooxr:xz82lne5tzgj@107.172.163.27:6543  
+http://pybzooxr:xz82lne5tzgj@64.137.42.112:5157  
+http://pybzooxr:xz82lne5tzgj@173.211.0.148:6641  
+http://pybzooxr:xz82lne5tzgj@161.123.152.115:6360  
+http://pybzooxr:xz82lne5tzgj@167.160.180.203:6754  
+http://pybzooxr:xz82lne5tzgj@154.36.110.199:6853  
+http://pybzooxr:xz82lne5tzgj@173.0.9.70:5653  
+http://pybzooxr:xz82lne5tzgj@173.0.9.209:5792
